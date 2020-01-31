@@ -1,15 +1,16 @@
-class Person
+class class
   def initialize (name)
     @name = name
   end
-  def name
-    @name
+  
+  def breed
+    @breed
   end
-  def name = (new_name)
-    @name = new_name
+  
+  def breed = []
+     @breed = ("Mutt")
+    @Mutt = "Mutt"
   end
-  Beyonce = Person.new("Beyonce")
-  Beyonce.name
 end
   
   end
