@@ -11,6 +11,7 @@ class Person
     @name = new_name
   end
   Beyonce = Person.new("Beyonce")
+  Beyonce=name
   Beyonce.name
 end
   
