@@ -8,7 +8,7 @@ class Person
   def name = (new_name)
     @name = new_name
   end
-  Angela = Person.new(Angela)
+  Beyonce = Person.new(Beyonce)
 end
   
   end
